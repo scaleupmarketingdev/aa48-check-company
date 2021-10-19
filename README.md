@@ -4,7 +4,7 @@
 </p>
 
 <h3>For more info about the infusionsoft syntax Click <a href="https://developer.infusionsoft.com/docs/xml-rpc/#contact">here</a></h3>
-<h4>Current URL: https://scaleupmarketing.asia/httpscripts/aa478/note/removetags.php</h4>
+<h4>Current URL: https://scaleupmarketing.asia/httpscripts/aa478/note/checkcompany.php</h4>
 <p>Script Description: 
   When HTTP POST REQUEST is triggered through an infusionsoft sequence<br>
   carrying the variable contact_id
