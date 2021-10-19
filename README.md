@@ -7,7 +7,7 @@
 <h4>Current URL: https://scaleupmarketing.asia/httpscripts/aa478/note/removetags.php</h4>
 <p>Script Description: 
   When HTTP POST REQUEST is triggered through an infusionsoft sequence<br>
-  carrying the variables contact_id
+  carrying the variable contact_id
   
   The script will use the "contact_id" variable to get the current info of the contact.<br>
   It will look for the "Company Name" info in it.<br>
